@@ -17,6 +17,7 @@
     border-style: hidden;
     box-shadow: 0 0 0 1px grey;
     table-layout: fixed;
+
 }
 
 td, th{
@@ -30,7 +31,7 @@ td, th{
 
 th{
     text-align: left;
-    border: 1px solid grey;
+    border:none;
 }
 
 .file-name-styles{
